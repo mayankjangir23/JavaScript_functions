@@ -17,3 +17,5 @@ This repository showcases a collection of practical and commonly used web functi
 🛒 Locate nearby shops on Google Maps based on user's location
 
 🗺️ Determine and display the optimal route between two locations using JavaScript
+
+A JavaScript based menu that consists of all the function mentioned above.
